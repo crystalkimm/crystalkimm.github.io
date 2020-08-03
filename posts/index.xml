@@ -20,5 +20,14 @@
       <description>INTROS this is the first post im creating.</description>
     </item>
     
+    <item>
+      <title>Second Post</title>
+      <link>https://crystalkimm.github.io/posts/post2/</link>
+      <pubDate>Sun, 02 Aug 2020 22:06:56 -0700</pubDate>
+      
+      <guid>https://crystalkimm.github.io/posts/post2/</guid>
+      <description>INTROS Hello Lucky is sitting down.</description>
+    </item>
+    
   </channel>
 </rss>
