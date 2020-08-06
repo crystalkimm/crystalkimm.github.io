@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Blog</title>
+    <title>DIGHUM 150A Archive</title>
     <link>https://crystalkimm.github.io/</link>
-    <description>Recent content on My Blog</description>
+    <description>Recent content on DIGHUM 150A Archive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 02 Aug 2020 22:06:56 -0700</lastBuildDate>
     
 	<atom:link href="https://crystalkimm.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Articles about global issues</title>
+      <link>https://crystalkimm.github.io/posts/global/</link>
+      <pubDate>Sun, 02 Aug 2020 22:06:56 -0700</pubDate>
+      
+      <guid>https://crystalkimm.github.io/posts/global/</guid>
+      <description>Article links:  Forbes article on China&amp;rsquo;s concentration camps - April 4, 2020  </description>
+    </item>
     
     <item>
       <title>First Post</title>
@@ -21,12 +30,12 @@
     </item>
     
     <item>
-      <title>Second Post</title>
-      <link>https://crystalkimm.github.io/posts/post2/</link>
+      <title>Main Content (articles)</title>
+      <link>https://crystalkimm.github.io/posts/articles/</link>
       <pubDate>Sun, 02 Aug 2020 22:06:56 -0700</pubDate>
       
-      <guid>https://crystalkimm.github.io/posts/post2/</guid>
-      <description>INTROS Hello Lucky is sitting down.</description>
+      <guid>https://crystalkimm.github.io/posts/articles/</guid>
+      <description>Sample articles, images, etc.  Forbes article on China&amp;rsquo;s concentration camps - April 4, 2020 Refinery29 article about fast fashion - April 21, 2020 Medium article on how Amazon is unethical - April 29, 2020 Washington Post article about racism against Asian Americans - May 19, 2020 Environmental racism - COVID-19 - May 19, 2020   Systemic vs Systematic racism - June 8, 2020 Netflix creates a Black Lives Matter collection - June 10, 2020   @soyouwanttotalkabout post about the Yemen crisis - June 18, 2020 California policy on affirmative Action - June 22, 2020 TIME Magazine Model Minority article - June 25, 2020 NPR article on prison labor - June 29, 2020 Facts and Myths about Hamilton - July 3, 2020 @whydontwediscuss post about implicit bias - July 12, 2020 New York Times article on ICE policy for international students - July 13, 2020) BBC article about Portland - July 19, 2020  </description>
     </item>
     
     <item>
